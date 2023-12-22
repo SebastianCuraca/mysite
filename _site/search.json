@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "illustration.html",
+    "href": "illustration.html",
+    "title": "Art & Illustration",
+    "section": "",
+    "text": "My illustrations focus on showing the beauty of the not so loved ones and the importance of recognizing the biodiversity of our tropical forests.\n\nRanitomeya sp. in watercolors technique.\n\n“La boa” watercolors illustration."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sebastián Curaca-Fierro",
@@ -7,11 +21,11 @@
     "text": "I am a passionate biologist with experience and knowledge in the taxonomy, ecology and bioacoustics of amphibians and reptiles. I have been involved in multiple projects, which has equipped me with skills in project design and development, biodiversity monitoring, and science communication. My primary goal is to highlight the ecological significance of anurans, engage local communities in understanding these organisms, and contribute to the conservation efforts of these vulnerable taxonomic groups.\nI am interested in eliciting the patterns and processes behind the reproductive and parental care behavior of frogs. Additionally, I want to do an approach to the statistical and bioacoustical analysis methods in biology and how we can improve it through novel technologies such as machine learning and data science.\nAbout my hobbies, I enjoy going hiking, walking in forests and nearby waterfalls, I like to do wild nature photography and practicing watercolors illustration."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Wild Photography",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "A hobby, a passion, and a way to show what is hidden in the forests. I hope my efforts can transmit empathy to the species shown here. \n\nAnimals\n\n\n\nAtractus crassicaudatus. Bogotá D. C. specimen.\n\n\n\n\n\nBolitoglossa pandi in situ. Supatá, Cundinamarca.\n\n\n\n\n\nDendropsophus molitor. Specimen from Bogotá D. C.\n\n\n\n\n\nAndinobates supata.\n\n\n\n\nBotanic pictures\n\n\n\nMutisia clematis botanic plate.\n\n\n\n\n\nPassiflora longipes botanic plate.\n\n\n\n\nLandscapes"
   },
   {
     "objectID": "projects.html",
@@ -26,19 +40,5 @@
     "title": "Publications",
     "section": "",
     "text": "Book Serpientes y Gente"
-  },
-  {
-    "objectID": "illustration.html",
-    "href": "illustration.html",
-    "title": "Art & Illustration",
-    "section": "",
-    "text": "My illustrations focus on showing the beauty of the not so loved ones and the importance of recognizing the biodiversity of our tropical forests.\n\nRanitomeya sp. in watercolors technique.\n\n“La boa” watercolors illustration."
-  },
-  {
-    "objectID": "photography.html",
-    "href": "photography.html",
-    "title": "Wild Photography",
-    "section": "",
-    "text": "A hobby, a passion, and a way to show what is hidden in the forests. I hope my efforts can transmit empathy to the species shown here. \n\nAnimals\n\n\n\nAtractus crassicaudatus. Bogotá D. C. specimen.\n\n\n\n\n\nBolitoglossa pandi in situ. Supatá, Cundinamarca.\n\n\n\n\n\nDendropsophus molitor. Specimen from Bogotá D. C.\n\n\n\n\n\nAndinobates supata.\n\n\n\n\nBotanic pictures\n\n\n\nMutisia clematis botanic plate.\n\n\n\n\n\nPassiflora longipes botanic plate.\n\n\n\n\nLandscapes"
   }
 ]
