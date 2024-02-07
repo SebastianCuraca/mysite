@@ -3,6 +3,7 @@ title: "Sebastián Curaca-Fierro"
 ---
 
 ![](Imagenes_para_web/Image_20231219_145608.jpeg){fig-align="center" width="350"}
+---
 
 I am a passionate biologist with experience and knowledge in the taxonomy, ecology and bioacoustics of amphibians and reptiles. I have been involved in multiple projects, which has equipped me with skills in project design and development, biodiversity monitoring, and science communication. My primary goal is to highlight the ecological significance of anurans, engage local communities in understanding these organisms, and contribute to the conservation efforts of these vulnerable taxonomic groups.
 
