@@ -41,3 +41,21 @@ During the pandemic I coordinated this project, we created virtual talks, worksh
 **Objective:** Propose an strategy to integrate architectural design, vines biodiversity and history of botanic expeditions to promote knowledge and patrimony appropriation.
 
 Project led by Dr. Argenis Bonilla, I participated by searching for potential Andean vines species of *Passiflora, Bomarea* and *Mutisia* that could be used for an building called pergola. In addition I collected vegetative material to include it in the occurrences and deposit on National Herbarium (COL). I took photographs in field of the species and created Lankester plates to show the different structures in a informative way. Finally I designed a approximation to the refuges usage and population of the *Atractus crassicaudatus* populations of the campus UNAL.
+
+##  Spatial distribution of *Andinobates supata* individuals in relation to the microhabitats used for reproduction
+
+![*Andinobates supata* is a tiny dart frog (less than 2 cm). This species lives in small fragments of Andean forests, being threatened by deforestation and illegal traficking](Imagenes_para_web/andinobates.png)
+
+*09/2022-07/2023*
+
+**Objective:** Analyze spatial distribution of the individuals of *Andinobates supata* in relationship with potential micro-habitats used for tadpole deposition
+
+Project led by the biologist Daniela Guevara, I worked as co-researcher, helping coordinate the surveys and monitoring activities, collecting data and filming and photographing natural history events. Additionally, I helped in the spatial analysis in R Studio. We found new interesting findings about their spatial distribution and reproductive behavior.
+
+## Taxonomic evaluation of *Hyloxalus subpunctatus* complex populations from Supatá, Cundinamarca
+
+![This species group is characterized by being highly criptic and elusive. Mainly males carry tadpoles and leave them in water pools to finish their development.](Imagenes_para_web/hyloxalus.png)
+
+**Objective:** Evaluate acoustic, morphological and ecological characteristics of species of the complex *Hyloxalus subpunctatus* and provide different lines evidence in support of the hypothesis of a new species.
+
+I coordinated this project, were I managed all steps in the research from planning to executing.
