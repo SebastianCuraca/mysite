@@ -1,11 +1,14 @@
 ---
 title: "Sebastián Curaca-Fierro"
+about:
+  template: broadside
+  image: Image_20231219_145608.jpeg
 ---
 
 ![](Imagenes_para_web/Image_20231219_145608.jpeg){fig-align="center" width="350"}
 ---
 
-I am a passionate biologist with experience and knowledge in the taxonomy, ecology and bioacoustics of amphibians and reptiles. I have been involved in multiple projects, which has equipped me with skills in project design and development, biodiversity monitoring, and science communication. My primary goal is to highlight the ecological significance of anurans, engage local communities in understanding these organisms, and contribute to the conservation efforts of these vulnerable taxonomic groups.
+I am a passionate biologist with experience and knowledge in the taxonomy, ecology and bioacoustics of amphibians and reptiles. I am an investigator linked to the research group Biologia de Organismos Tropicales (BIOTUN) since 2017. I have been involved in multiple projects, which has equipped me with skills in project design and development, biodiversity monitoring, and science communication. My primary goal is to highlight the ecological significance of anurans, engage local communities in understanding these organisms, and contribute to the conservation efforts of these vulnerable taxonomic groups.
 
 I am interested in eliciting the patterns and processes behind the reproductive and parental care behavior of frogs. Additionally, I want to do an approach to the statistical and bioacoustical analysis methods in biology and how we can improve it through novel technologies such as machine learning and data science.
 
