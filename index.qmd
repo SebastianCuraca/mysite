@@ -1,8 +1,8 @@
 ---
 title: "Sebastián Curaca-Fierro"
+image: Image_20231219_145608.jpeg
 about:
-  template: broadside
-  image: Image_20231219_145608.jpeg
+  template: trestles
 ---
 
 ## ![](Imagenes_para_web/Image_20231219_145608.jpeg){fig-align="center" width="350"}
